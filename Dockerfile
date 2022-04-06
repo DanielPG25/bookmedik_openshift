@@ -1,5 +1,5 @@
 FROM php:7.4-apache-bullseye
-MAINTAINER Daniel Parrales García "daniparrales16@gmail.com"
+MAINTAINER Daniel Parrales "daniparrales16@gmail.com"
 EXPOSE 8080
 ENV USUARIO_BOOKMEDIK=bookmedik
 ENV CONTRA_BOOKMEDIK=bookmedik
