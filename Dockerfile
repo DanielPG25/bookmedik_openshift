@@ -1,4 +1,4 @@
-FROM php:7.4-apache-bullseye
+FROM docker.io/php:7.4-apache-bullseye
 MAINTAINER Daniel Parrales "daniparrales16@gmail.com"
 EXPOSE 8080
 ENV USUARIO_BOOKMEDIK=bookmedik
